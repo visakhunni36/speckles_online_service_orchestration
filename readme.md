@@ -6,4 +6,4 @@ It also allows you to customize popups,push notifications, contents etc in your 
 The admins can monitor and manage the website visitors.
 Also it comes with a powerful built in CRM and project management tool.
 
-![Alt text](/Screenshot (75)?raw=true "Screenshot-1")
+![Alt text](/Screenshot (75).png?raw=true "Screenshot-1")
